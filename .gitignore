@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+venv/
+data/*.csv
+data/*.zip
+*.pth
+checkpoints/
+.ipynb_checkpoints/
+.DS_Store
+.kaggle/
